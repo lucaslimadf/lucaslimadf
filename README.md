@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaslimadf
 - 👀 I'm interested in developing new projects that impact the world and help me improve my skills as a developer!
-- 🌱 I’m currently learning the stack Javascript, Node JS, React and React Native
+- 🌱 I’m currently learning the stack Javascript, Node JS, Angular 8 and Typescrypt
 - 📫 Need to contact with me? send me a email: [lucaslimadf@gmail.com](mailto:lucaslimadf@gmail.com)
 
 See my recent repositories and see some projects I'm working on! 
